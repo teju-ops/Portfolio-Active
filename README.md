@@ -14,5 +14,5 @@ Feel free to reach out with questions on **front-end development**, specifically
 
 📫 Get in Touch  
 📧 Email: tejumahajan1008@gmail.com 
-🌐 Portfolio: 
+🌐 Portfolio: https://67d16463b96c8e0074984f6d--reliable-pixie-75af4f.netlify.app/
 🔗 LinkedIn: linkedin.com/in/tejaswini-mahajan-43719024a
